@@ -14,14 +14,14 @@ Para a criação do laboratório é necessário ter pré instalado os seguintes 
 Laboratório
 -----------
 
-O Laboratório será criado utilizando uma máquina virtual com [VirtualBox][https://www.virtualbox.org/wiki/Downloads] e a interface [pgAdmin][https://www.virtualbox.org/wiki/Downloads] para se conectar ao banco de dados.
+O Laboratório será criado utilizando uma máquina virtual com [VirtualBox](https://www.virtualbox.org/wiki/Downloads) e a interface [pgAdmin](https://www.pgadmin.org/download/) para se conectar ao banco de dados.
 
 Para criar o seu laboratório siga os seguintes passos:
 
 **Passo 1: Configuração da Máquina Virtual no VirtualBox**
 
 1. Faça a instalação do VirtualBox pelo link: https://www.virtualbox.org/wiki/Downloads
-2. Faça o download da máquina virtual pronta em: ...
+2. Faça o download da máquina virtual pronta em (Arquivo "4Linux AlmaLinux.ova"): [https://github.com/4linux/051](https://github.com/4linux/051)
 3. No VirtualBox clique no canto superior esquerdo em Arquivo > Importar Appliance e selecione o arquivo da máquina virutal (Arquivo OVA).
 4. Em Arquivo > Ferramentas > Gerenciador de Rede, remova o adaptador atual e crie um novo com o Endereço IPv4 igual a "192.168.56.1".
 5. Nas configurações da máquina virtual, na aba Rede selecione o seu novo adaptador na aba "Adaptador 2".
