@@ -9,7 +9,7 @@ Dependências
 Para a criação do laboratório é necessário ter pré instalado os seguintes softwares:
 
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
-* [pgAdmin](https://www.virtualbox.org/wiki/Downloads)
+* [pgAdmin](https://www.pgadmin.org/download/)
 
 Laboratório
 -----------
